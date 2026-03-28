@@ -51,6 +51,14 @@ The notebook combines conceptual explanations with code implementation so the pr
 - `products_pizza.csv`: product-level input data.
 - `agents_pizza.csv`: agent-level input data.
 
+## Team
+
+This project was completed by:
+
+- Daniela Mendirichaga
+- Chenny Yang
+- Hanako Doerr
+
 ## How to Run
 
 1. Install Python 3 and Jupyter Notebook.
